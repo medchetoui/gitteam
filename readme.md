@@ -10,8 +10,8 @@
         &nbsp;&nbsp
             <a href="https://github.com/medchetoui">
 				<img src="https://avatars.githubusercontent.com/u/175647812?v=4" width="50">
-                <h2>MohammedAmine </h2>
-                <h2>Omar Samih</h2>
+                <h2>Omar samih </h2>
+                
             </a>
             <br>            
             <table>
