@@ -1,5 +1,3 @@
-<h1>Test </h1>
-<h1>test2</h1>
 <div align="center">
     #Contributors: 👨‍💻👩‍💻🧑🏻‍💻
 </div>
