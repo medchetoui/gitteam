@@ -9,7 +9,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/medchetoui">
-				<img src="https://avatars.githubusercontent.com/u/149297561?v=4" width="50">
+				<img src="https://avatars.githubusercontent.com/u/175647812?v=4" width="50">
                 <h2>MohammedAmine </h2>
                 <h2>Omar Samih</h2>
             </a>
@@ -36,7 +36,7 @@
 <!-- GITHUB -->
 <td>
 <a href="https://github.com/medchetoui">
-    <img src="https://avatars.githubusercontent.com/u/175647812?v=4" width="30">
+    <img src="./img/github-logo.png" width="30">
 </a>
 <p>Omarsamih844</p>
 
