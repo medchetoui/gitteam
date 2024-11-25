@@ -18,7 +18,7 @@
                 
 <!-- LINKED IN -->
 <td>
-<a href="https://www.linkedin.com/in/mohammedamine-chetoui-449864258/">
+<a href="https://www.linkedin.com/in/omar-samih-b7375521a/">
     <img src="./img/linkedin-logo.png" width="30">
 </a>
 <p>omar84</p>
@@ -35,7 +35,7 @@
 <!--// INSTAGRAM //-->
 <!-- GITHUB -->
 <td>
-<a href="https://github.com/medchetoui">
+<a href="https://github.com/Omarsamih844">
     <img src="./img/github-logo.png" width="30">
 </a>
 <p>Omarsamih844</p>
