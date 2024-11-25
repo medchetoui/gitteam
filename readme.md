@@ -24,7 +24,7 @@
 <!--// LINKED IN //-->
 <!-- INSTAGRAM -->
 <td>
-<a href="https://www.instagram.com/chetouimed/">
+<a href="https://www.instagram.com/mohamed.batlmios/">
     <img src="./img/instagram-logo.png" width="30">
 </a>
 </td>
