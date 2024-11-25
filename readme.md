@@ -31,7 +31,7 @@
 <!--// INSTAGRAM //-->
 <!-- GITHUB -->
 <td>
-<a href="https://github.com/medchetoui">
+<a href="https://github.com/midobatlmios">
     <img src="./img/github-logo.png" width="30">
 </a>
 </td>
