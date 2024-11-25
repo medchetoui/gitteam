@@ -17,7 +17,7 @@
                 
 <!-- LINKED IN -->
 <td>
-<a href="https://www.linkedin.com/in/mohammedamine-chetoui-449864258/">
+<a href="https://www.linkedin.com/in/mohamed-bouamlat-1a8699248/">
     <img src="./img/linkedin-logo.png" width="30">
 </a>
 </td>
