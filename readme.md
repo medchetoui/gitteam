@@ -62,14 +62,14 @@
 <!--// LINKED IN //-->
 <!-- INSTAGRAM -->
 <td>
-<a href="https://www.instagram.com/chetouimed/">
+<a href="https://www.instagram.com/ilyas.madane.39/">
     <img src="./img/instagram-logo.png" width="30">
 </a>
 </td>
 <!--// INSTAGRAM //-->
 <!-- GITHUB -->
 <td>
-<a href="https://github.com/medchetoui">
+<a href="https://github.com/codewithilyas">
     <img src="./img/github-logo.png" width="30">
 </a>
 </td>
