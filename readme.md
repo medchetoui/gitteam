@@ -9,7 +9,7 @@
         <td align="center" width="600">
             <a href="https://github.com/medchetoui">
                 <img src="https://avatars.githubusercontent.com/u/149297561?v=4" width="50" alt="Mohammed Amine">
-                <h2>Mohammed Amine</h2>
+                <h2>Mohammed Amine Chetoui</h2>
             </a>
             <table align="center">
                 <tr>
@@ -42,6 +42,28 @@
                 <img src="https://avatars.githubusercontent.com/u/175647812?v=4" width="50" alt="Omar Samih">
                 <h2>Omar Samih</h2>
             </a>
+            <table align="center">
+                <tr>
+                    <!-- LinkedIn -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohamed-bouamlat-1a8699248/">
+                            <img src="./img/linkedin-logo.png" width="30" alt="LinkedIn">
+                        </a>
+                    </td>
+                    <!-- Instagram -->
+                    <td>
+                        <a href="https://www.instagram.com/mohamed.batlmios/">
+                            <img src="./img/instagram-logo.png" width="30" alt="Instagram">
+                        </a>
+                    </td>
+                    <!-- GitHub -->
+                    <td>
+                        <a href="https://github.com/midobatlmios">
+                            <img src="./img/github-logo.png" width="30" alt="GitHub">
+                        </a>
+                    </td>
+                </tr>
+            </table>
             <a href="https://github.com/midobatlmios">
                 <img src="https://avatars.githubusercontent.com/u/147062904?s=400&v=4" width="50" alt="Mohammed Bouamlat">
                 <h2>Mohammed Bouamlat</h2>
