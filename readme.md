@@ -41,7 +41,6 @@
             <a href="https://github.com/medchetoui">
                 <img src="https://avatars.githubusercontent.com/u/175647812?v=4" width="50" alt="Omar Samih">
                 <h2>Omar Samih</h2>
-                <h3>DD205</h3>
             </a>
             <a href="https://github.com/midobatlmios">
                 <img src="https://avatars.githubusercontent.com/u/147062904?s=400&v=4" width="50" alt="Mohammed Bouamlat">
