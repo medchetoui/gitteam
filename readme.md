@@ -35,7 +35,6 @@
             </table>
         </td>
     </tr>
-
     <!-- Contributor: Omar Samih -->
     <tr>
         <td align="center" width="600">
@@ -72,7 +71,6 @@
             </table>
         </td>
     </tr>
-
     <!-- Contributor: Zakaria Saidi -->
     <tr>
         <td align="center" width="600">
@@ -104,7 +102,6 @@
             </table>
         </td>
     </tr>
-
     <!-- Contributor: Ilyas -->
     <tr>
         <td align="center" width="600">
