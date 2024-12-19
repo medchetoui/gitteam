@@ -41,10 +41,6 @@
 </td>
 </tr>
 
-<div align="center">
-    #Contributors: 👨‍💻👩‍💻🧑🏻‍💻
-</div>
-
 <!-- CONTRIBUTER -->
 <table border="1|0" align="center">
 <!--=== Copy this section starting from this line and ending with the line mentioned===-->
